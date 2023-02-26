@@ -1,4 +1,9 @@
-# HoneyComb-
+#HoneyComb-
+
+**UPDATE 2.0**
+
+The following has been added to HoneyComb!
+
 > ~honey afk 
 > ~honey set welc chan 
 > ~honey timeout(has been removed!)
