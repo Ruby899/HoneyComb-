@@ -1,24 +1,16 @@
 # HoneyComb-
-The bot that is very sweet
- 
-UPDATES MADE TO HONEYCOMB 
 
-> ~honey afk 
-> ~honey set welc chan 
-> ~honey timeout(has been removed!)
-> ~honey ban 
-> ~honey set verify role 
-> ~honey set welc msg 
-> ~honey set welc image
-> ~honey set leave chan <#channel>
-> ~honey set leave msg <message>
-> ~honey set leave image <image url>
-> ~honey enable leave
-> ~honey lyrics
-> ~honey enable anti link
-> ~honey kick <user> <reason>
-> ~honey work
-> ~honey bal
-> ~honey daily 
-> ~honey avatar <user>
-> ~honey user info <user>
+HoneyComb is a multipurpose bot!
+Who is packed with features! Features 
+Include economy,moderation,fun ect!
+
+There is even a suggestion command so 
+people can suggest new features! 
+
+Please keep in mind that there might be
+bugs when a new update comes out! As that
+is normal when new updates get released! 
+
+I hope you all enjoy my wonderful bot!
+
+-Mr.L (aka Ruby899)
