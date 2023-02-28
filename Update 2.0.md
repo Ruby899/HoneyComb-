@@ -2,16 +2,28 @@
 
 **UPDATE 2.0**
 
-The following has been added to HoneyComb!
+> ~honey afk 
+> ~honey set welc chan 
+> ~honey timeout(has been removed!)
+> ~honey ban 
+> ~honey set verify role 
+> ~honey set welc msg 
+> ~honey set welc image
+> ~honey set leave chan <#channel>
+> ~honey set leave msg <message>
+> ~honey set leave image <image url>
+> ~honey enable leave
+> ~honey lyrics
+> ~honey enable anti link
+> ~honey kick <user> <reason>
+> ~honey work
+> ~honey bal
+> ~honey daily 
+> ~honey avatar <user>
+> ~honey user info <user>
 
-> ~honey warn <user> <reason>
-> ~honey check warns <user>
-> ~honey remove warn <ammount> <user>
-> ~honey set verify role <mentioned role>
-> ~honey send verify <in the channel you want it sent in!>
-> ~honey suggest <suggestion>
+**I hope you enjoy useing my wonderful bot!
+He is packed with features you can use 
+completely free!!**
 
-*these are just minor updates! Nothing 
-To big!*
-
-__THANK YOU FOR USEING HONEYCOMB__
+__THANK YOU FOR USEING HONEYCOMB!__
