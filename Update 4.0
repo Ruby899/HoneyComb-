@@ -1,0 +1,23 @@
+**the following has been added to HoneyComb!**
+> ~honey lock <channel> <reason>
+> ~honey unlock <channel>
+> ~honey purge <number of messages>
+> ~honey google
+> ~honey set verify code
+> ~honey verify <verify code>
+
+**A message from Mr.L**
+There is now a code verification system!  
+Just use `~honey set verify code <code>` 
+to set a code and `~honey verify <code>` 
+to verify useing the code! I have also
+ added channel lock and unlock commands 
+along with a purge command! I hope the 
+google command will come of use!
+
+__THANK YOU FOR USEING HoneyComb!__
+
+much love -Mr.Logan
+
+**just a few commands have been added!
+I hope you enjoy them!**
